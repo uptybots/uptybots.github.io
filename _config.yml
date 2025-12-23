@@ -1,0 +1,5 @@
+title: UptyBots
+description: "Online uptime monitoring service for websites, APIs, domains and SSL."
+baseurl: ""
+url: "https://uptybots.github.io"
+theme: minima
