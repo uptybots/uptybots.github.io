@@ -1,3 +1,4 @@
+logo: /logo.png
 title: UptyBots
 description: "Online uptime monitoring service for websites, APIs, domains and SSL."
 baseurl: ""
