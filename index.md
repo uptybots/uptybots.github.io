@@ -1,7 +1,5 @@
 ![UptyBots Logo](logo.png)
 
-# UptyBots 🚀
-
 **UptyBots** is an online uptime monitoring service that helps you track
 website availability, API uptime, domain expiration, and SSL certificate health.
 
