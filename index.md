@@ -22,12 +22,12 @@ website availability, API uptime, domain expiration, and SSL certificate health.
 
 ## 🔗 Quick Links
 
-- 🌐 Website: [https://uptybots.com](https://uptybots.com)
-- 📄 Blog: [https://uptybots.com/blog](https://uptybots.com/blog)
-- 📬 Contact: [https://uptybots.com/contact](https://uptybots.com/contact)
-- ❓ FAQ: [https://uptybots.com/faq](https://uptybots.com/faq)
-- 📚 Tutorials: [https://uptybots.com/tutorials](https://uptybots.com/tutorials)
-- 🎬 Demos: [https://uptybots.com/demos](https://uptybots.com/demos)
+- 🌐 [Website](https://uptybots.com)
+- 📄 [Blog](https://uptybots.com/blog)
+- 📬 [Contact](https://uptybots.com/contact)
+- ❓ [FAQ](faq.md)
+- 📚 [Tutorials](tutorials.md)
+- 🎬 [Demos](https://uptybots.com/demos)
 
 ---
 
